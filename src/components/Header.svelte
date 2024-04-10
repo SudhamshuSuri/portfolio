@@ -11,7 +11,7 @@
     y > 0 ? 'pt-4 bg-slate-950 border-violet-950': 'py-6 bg-transparent border-transparent'
 )}>
     <h1 class="font-medium">
-        <b class="font-bold Reddit-Mono">Sudhamshu</b>Suri
+        <b class="font-bold Reddit-Mono">Sudhamshu</b> Suri
     </h1>
     <div class="sm:flex items-center gap-4 hidden">
         {#each tabs as tab, index}
